@@ -18,6 +18,14 @@ if st.button("Get Wingman Advice", type="primary"):
     else:
         with st.spinner("Analyzing energy and generating strategies..."):
             try:
+                # Map Streamlit secrets to environment variables if deployed on Streamlit Cloud
+                import os
+                try:
+                    if "GROQ_API_KEY" in st.secrets:
+                        os.environ["GROQ_API_KEY"] = st.secrets["GROQ_API_KEY"]
+                except Exception:
+                    pass
+                
                 # Add a tiny artificial delay to make it feel like it's "thinking" despite Groq being too fast
                 time.sleep(0.5) 
                 
