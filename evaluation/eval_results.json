@@ -1,0 +1,504 @@
+[
+  {
+    "id": 1,
+    "category": "flirting",
+    "prompt": "We were debating the best late-night food spot and he sent 'I'll have to take you to my secret taco place and prove you wrong'. How do I playfully accept without seeming too eager?",
+    "wingman_response": "Sounds like you're confident in your taco game. I'm intrigued \u2013 what makes this place so secret?",
+    "suggested_messages": [
+      "Sounds like you're confident in your taco game. I'm intrigued \u2013 what makes this place so secret?",
+      "Alright, I'll take your taco challenge. When's the tour?",
+      "Secret spot, huh? I'm curious \u2013 what's the best part about this place?"
+    ],
+    "energy_read": "Playful",
+    "safety_flag": false,
+    "confidence": 0.9,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 2,
+    "category": "flirting",
+    "prompt": "She sent a screenshot of her Spotify wrapped and we have the exact same top artist. What's a witty way to reply?",
+    "wingman_response": "We're either soulmates or Spotify's algorithm has a weird crush on us. Either way, I'm curious about your top song of the year. Maybe we can bond over some questionable taste in music.",
+    "suggested_messages": [
+      "You and me, same top artist? That's a solid foundation for a friendship",
+      "I'm starting to think Spotify knows us better than we know ourselves. What's your top song of the year?",
+      "Conspiracy theory alert: I think Spotify's algorithm is secretly trying to set us up. What's your top artist's most iconic song?"
+    ],
+    "energy_read": "Playful",
+    "safety_flag": false,
+    "confidence": 0.85,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 3,
+    "category": "flirting",
+    "prompt": "He replied to my Instagram story (me at a concert) with 'looks loud but you look great'. How do I keep the banter going?",
+    "wingman_response": "He's trying to charm you, but also acknowledging the chaos of the concert. You could poke fun at the situation or playfully call him out on his comment.",
+    "suggested_messages": [
+      "What, the band is just getting started? Should be loud by now!",
+      "I guess that's one way to compliment someone in a loud environment",
+      "Thanks, I'm trying to rock this look"
+    ],
+    "energy_read": "Playful",
+    "safety_flag": false,
+    "confidence": 0.85,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 4,
+    "category": "flirting",
+    "prompt": "I playfully told him his sweater makes him look like a sophisticated grandfather, and he replied 'A grandfather who could steal your girl'. Need a sharp comeback.",
+    "wingman_response": "I think he's trying to deflect from the sweater comment. Let's not take the bait.",
+    "suggested_messages": [
+      "Dude, you're overthinking it. It was just a joke.",
+      "I think we can both agree, grandpas can be pretty cool. But maybe not when they're trying to steal someone's girl.",
+      "Low bar, indeed. Maybe focus on being a cool grandpa instead?"
+    ],
+    "energy_read": "Playful, slightly sarcastic",
+    "safety_flag": false,
+    "confidence": 0.85,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 5,
+    "category": "flirting",
+    "prompt": "She casually mentioned that she is 'accepting applications for a plus one to a wedding next month'. Should I shoot my shot?",
+    "wingman_response": "She's testing the waters. If you're game, ask what she's looking for in a plus one. This might help you gauge her interest.",
+    "suggested_messages": [
+      "Hey, 'applications' for a plus one, huh? What's the job description?",
+      "I'm intrigued by the plus one opening. What's the vibe for the wedding?",
+      "What kind of plus one are you looking for?"
+    ],
+    "energy_read": "Playful",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 6,
+    "category": "flirting",
+    "prompt": "We just matched on Hinge and his prompt says 'Let's debate the most overrated pasta shape'. I want to start strong.",
+    "wingman_response": "I'm down to debate. But first, let's agree on one thing: the real overachiever in pasta world is the one that can hold the most sauce.",
+    "suggested_messages": [
+      "Penne's just a vessel for sauce, right?",
+      "Tortellini's just a stuffed shell in disguise. What's the real overachiever in pasta world?",
+      "Fettuccine's just a fancy way of saying 'al dente noodles with a side of existential dread'."
+    ],
+    "energy_read": "Playful",
+    "safety_flag": false,
+    "confidence": 0.85,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 7,
+    "category": "cold_reply",
+    "prompt": "I sent a voice note enthusiastically talking about a promotion I just got at work. He replied 4 hours later with 'That\u00e2\u20ac\u2122s awesome man congrats'.",
+    "wingman_response": "His response, although well-intentioned, seems slightly muted. Let's try to get a better read on his interest.",
+    "suggested_messages": [
+      "Hey, no worries if you're slammed today, but I'm still stoked about the promotion! What's the plan for celebrating?",
+      "Congrats again, man! That's awesome news. What's the new role looking like?",
+      "Lol, I guess I got too excited on the voice note. Seriously though, how's the new promotion going to change things for you?"
+    ],
+    "energy_read": "Dry",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 8,
+    "category": "cold_reply",
+    "prompt": "We had a really good second date, but since then she\u00e2\u20ac\u2122s been taking almost a full day to reply to texts, and her responses are just one line.",
+    "wingman_response": "It's possible she's busy or dealing with something personal. Given that your second date was great, try not to read too much into it just yet. Ask her directly about her availability.",
+    "suggested_messages": [
+      "Hey, hope you're doing okay! I feel like we had a great time on our last date, but I've noticed it's taking a bit to hear back from you. Is everything all right?",
+      "I've been wondering if you're free to hang out again soon? I really enjoyed our time together, and I'd love to catch up.",
+      "No pressure or anything, but I wanted to check in and see what's new with you. You seem a bit quiet lately, and I'm curious if everything is okay."
+    ],
+    "energy_read": "Uncertain",
+    "safety_flag": false,
+    "confidence": 0.55,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 9,
+    "category": "cold_reply",
+    "prompt": "I asked if he preferred Friday or Saturday for getting drinks, and he just said 'let me check my schedule' and hasn't followed up in two days.",
+    "wingman_response": "It's possible he's genuinely busy or unsure about his schedule. However, the lack of follow-up does raise some concerns. It's worth having an open and honest conversation to clear the air.",
+    "suggested_messages": [
+      "Hey, no worries if you're really busy, but I was looking forward to getting drinks soon. Are you still up for it?",
+      "Just checking in, still good for drinks on either day or shall we pick a new time?",
+      "If you're not a fan of our previous plans, I'd love to brainstorm some new ideas that work better for you."
+    ],
+    "energy_read": "Dry/Indifferent",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 10,
+    "category": "cold_reply",
+    "prompt": "I tried to start a conversation about a show we both watch, and she just sent 'yeah that episode was crazy'.",
+    "wingman_response": "It seems like she's not super into continuing the conversation. Try changing the subject or ending the convo if you're not getting any enthusiasm back.",
+    "suggested_messages": [
+      "No worries, I just thought it was crazy too. Want to grab coffee and catch up on something else?",
+      "Haha yeah it was wild. Want to discuss a different show instead?",
+      "Okay, cool. If you want to talk about it later, I'm game. Otherwise, I'm good!"
+    ],
+    "energy_read": "Dry",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 11,
+    "category": "cold_reply",
+    "prompt": "He usually uses a lot of emojis and exclamation points, but today when I asked about his weekend plans he just said 'Not much just chilling'.",
+    "wingman_response": "He's being pretty low-key today, which is unusual for him. Maybe he's just having a chill day or not feeling up to sharing plans. Either way, it's a good sign to respect his boundaries.",
+    "suggested_messages": [
+      "Hey, no worries about sharing plans if you're not feeling up to it. Just wanted to make sure everything's cool.",
+      "Chilling sounds like a great way to spend the day! Would you want some company or are you good on your own?"
+    ],
+    "energy_read": "Dry",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 12,
+    "category": "cold_reply",
+    "prompt": "I texted her 'had a great time tonight!' right after our first date, and she reacted to the message with a heart but didn't actually reply.",
+    "wingman_response": "It's possible she's just not feeling the need to rush into a response. Try sending a casual message to keep the conversation going.",
+    "suggested_messages": [
+      "Hey, no rush at all! Just wanted to say thanks again for the fun date.",
+      "You seemed to enjoy the concert as much as I did. Want to catch another one together sometime?",
+      "I'm really glad we met! Would love to grab coffee and get to know you better soon?"
+    ],
+    "energy_read": "Dry",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 13,
+    "category": "recovery",
+    "prompt": "I accidentally sent a screenshot of our conversation to him instead of my group chat. He just saw it.",
+    "wingman_response": "Mistakes happen. How's he doing?",
+    "suggested_messages": [
+      "Hey, no big deal about that screenshot",
+      "Want to grab coffee and catch up?"
+    ],
+    "energy_read": "Awkward",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 14,
+    "category": "recovery",
+    "prompt": "I got a little too drunk last night and double-texted her complaining about my ex. Woke up to silence.",
+    "wingman_response": "Last night might have gotten a bit out of hand. Want to talk about it?",
+    "suggested_messages": [
+      "Want to grab coffee and discuss what happened last night?",
+      "I'm feeling pretty mortified about my behavior. Can we start fresh?"
+    ],
+    "energy_read": "Anxious",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 15,
+    "category": "recovery",
+    "prompt": "I made a sarcastic joke about her job that came off way harsher over text than I meant. She said 'wow okay'.",
+    "wingman_response": "I think we might have had a misfire here. I'd be pretty upset if someone made a jab at my job, even if it was meant as a joke. The 'wow okay' response makes me wonder if we're on the same page. It's worth clarifying what was meant and how we can move forward.",
+    "suggested_messages": [
+      "Haha, sorry if my joke was a bit off. Was I way out of line?",
+      "Hey, I realize now that my joke might have come across as insensitive. Can we talk about it?",
+      "So... did my joke land as a joke, or was it a bit too real?"
+    ],
+    "energy_read": "Dry, possibly Upset",
+    "safety_flag": false,
+    "confidence": 0.89,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 16,
+    "category": "recovery",
+    "prompt": "He told me he couldn't hang out because he was exhausted, and I saw him tagged at a bar on a friend's story. I passive-aggressively texted 'hope you're resting well!'",
+    "wingman_response": "You're right to be skeptical. A passive-aggressive text might not be the best approach, as it can come across as accusatory. Consider taking a step back and re-evaluating the situation before deciding how to proceed.",
+    "suggested_messages": [
+      "Hey, no big deal, but I saw you at the bar. Are you feeling better than you said earlier?",
+      "I'm curious, what's a typical night out for you? Just wondered.",
+      "If you're not up for hanging out, I totally get it. Just wanted to check in and make sure everything's okay."
+    ],
+    "energy_read": "Dry",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 17,
+    "category": "recovery",
+    "prompt": "We were supposed to meet at 7. I fell asleep and didn't wake up until 8:30. He texted 'Guess we aren't doing this?' at 7:45.",
+    "wingman_response": "I get that you're running late, but it's not ideal. Let's reschedule for another time?",
+    "suggested_messages": [
+      "Hey, sorry again for the super late start. You up for rescheduling for another time?",
+      "Not the best start to the day, I know. Would you be willing to give me another chance?",
+      "Guess I really messed up the timing. You free to grab coffee another day?"
+    ],
+    "energy_read": "Dry",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 18,
+    "category": "recovery",
+    "prompt": "I panicked when she asked what I was looking for, and I said 'just keeping it super casual' even though I actually really like her.",
+    "wingman_response": "It sounds like you might have been trying to downplay your interest, but 'just keeping it super casual' can come across as dismissive. Why don't you try being a bit more genuine and see where things go?",
+    "suggested_messages": [
+      "I think I might have been trying to play it cool, but now I'm curious \u2013 what's your ideal situation?",
+      "Casual's cool, but I'm really interested in getting to know you better. Want to grab coffee or something?",
+      "I'm really enjoying our convo. Would love to take it to the next level if you're down?"
+    ],
+    "energy_read": "Defensive",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 19,
+    "category": "emotional",
+    "prompt": "We've been dating for a month and I haven't heard from him all weekend. I'm feeling really anxious and just want to know he's thinking of me without sounding needy.",
+    "wingman_response": "Hey, I get that you're feeling anxious. It's normal to wonder what's going on when you haven't heard from someone. Why not try sending him a casual message to check in? Something like 'Hey, how's your weekend?' might be a good start.",
+    "suggested_messages": [
+      "Hey, how's your weekend?",
+      "Hey, just wanted to say hi and see how you're doing.",
+      "Hey, hope you're doing well. Missing you a bit."
+    ],
+    "energy_read": "Anxious",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 20,
+    "category": "emotional",
+    "prompt": "I saw he updated his dating app profile with new photos even though we've been seeing each other exclusively for 3 weeks.",
+    "wingman_response": "He might be updating his profile for reasons unrelated to us. If you're feeling unsure, it's okay to ask how he's thinking about things.",
+    "suggested_messages": [
+      "Hey, I saw you updated your profile. What's up?",
+      "Just noticed the profile update. Can we talk about where we stand?"
+    ],
+    "energy_read": "Dry",
+    "safety_flag": false,
+    "confidence": 0.55,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 21,
+    "category": "emotional",
+    "prompt": "She brought up her ex randomly in conversation today and it made me feel like a rebound.",
+    "wingman_response": "It's possible she's not even thinking about it as a rebound, but that comment might have still rubbed you the wrong way. Let's take a step back and reassess the situation.",
+    "suggested_messages": [
+      "Hey, I felt a bit weird when you mentioned your ex. Can we talk about what's going on?",
+      "Want to walk through what just happened? I'm here to listen.",
+      "I'm having trouble figuring out what's going on. Can you help me understand?"
+    ],
+    "energy_read": "Dry",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 22,
+    "category": "emotional",
+    "prompt": "I really miss him today. We had a great weekend together but haven't texted much this week because of work.",
+    "wingman_response": "I get it. Sometimes it feels like you're stuck in a bubble of good vibes after a great weekend, and then reality hits with no texts coming in.",
+    "suggested_messages": [
+      "Hey, just wanted to check in and see how your week is going.",
+      "What's new with you? Just thinking about our weekend and wanted to say hi.",
+      "Life got busy, I know, but I couldn't help but think of you today"
+    ],
+    "energy_read": "Nostalgic",
+    "safety_flag": false,
+    "confidence": 0.55,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 23,
+    "category": "date_planning",
+    "prompt": "It's her birthday next week (we've been dating 2 months). What's a good way to ask what her plans are without making her feel obligated to spend it with me?",
+    "wingman_response": "To gauge her plans without making her feel obligated, try asking casually and without assuming she'll spend it with you. You can say something like, 'Hey, I know your birthday is next week! Just wondering, do you have any fun plans lined up or is it still up in the air?'",
+    "suggested_messages": [
+      "Hey, I know your birthday is next week! Just wondering, do you have any fun plans lined up or is it still up in the air?",
+      "What are you thinking for your birthday next week? Any fun plans or just relaxing at home?"
+    ],
+    "energy_read": "Cautious",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 24,
+    "category": "date_planning",
+    "prompt": "He said 'we should definitely get dinner soon' but didn't propose a specific day. I want to lock it down but don't want to seem pushy.",
+    "wingman_response": "It's understandable you want to lock down a plan, but his vagueness might be a sign of a casual interest. Ask him to suggest a day or timeframe, and let him take the lead.",
+    "suggested_messages": [
+      "What's your schedule looking like for the next week or two?",
+      "When were you thinking of getting dinner?",
+      "Do you have any days coming up that you'd love to have dinner?"
+    ],
+    "energy_read": "Cautious",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 25,
+    "category": "date_planning",
+    "prompt": "I want to invite him over to my place to cook dinner for our fourth date, but I don't want it to automatically imply we're sleeping together.",
+    "wingman_response": "Cooking dinner at a neutral spot like a restaurant or your place can be a good way to keep things chill on a fourth date. It's a step up from a casual meet-and-greet, but not necessarily where you want to end up on a fourth date. Consider suggesting a restaurant or a casual hangout spot to keep things relaxed.",
+    "suggested_messages": [
+      "Want to try a new restaurant instead of cooking at home? I'm game for trying something new.",
+      "How about we grab some takeout or go to a casual spot? I'd love to hang out with you!",
+      "I was thinking we could check out that new spot that just opened up. What do you think?"
+    ],
+    "energy_read": "Cautious",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 26,
+    "category": "date_planning",
+    "prompt": "I had to cancel our last date because I got sick, and I want to ask him out again to make up for it.",
+    "wingman_response": "Let's reschedule for this weekend. Hope you're feeling better.",
+    "suggested_messages": [
+      "Hey, hope you're feeling better. Want to reschedule for this weekend?",
+      "I'm really sorry again about canceling last time. Would love to make it up to you, how about we try again soon?"
+    ],
+    "energy_read": "Nervous",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 27,
+    "category": "low_context",
+    "prompt": "He just sent me a link to a song with no caption.",
+    "wingman_response": "He just sent you a link to a song with no caption. Could be a busy week. If you're feeling curious, you could ask what the song is about or if he just stumbled upon it.",
+    "suggested_messages": [
+      "Hey, what's the story behind this song?",
+      "Found a new jam, huh? What's your take on it?",
+      "Random song drop. Want to explain the context?"
+    ],
+    "energy_read": "Neutral",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 28,
+    "category": "low_context",
+    "prompt": "She texted 'We need to talk about what happened last night.' I honestly have no idea what she's referring to.",
+    "wingman_response": "I'm a bit lost - can you remind me what happened?",
+    "suggested_messages": [
+      "What's going on? What happened last night?",
+      "Last night was a blur for me - can we talk about what's on your mind?"
+    ],
+    "energy_read": "Anxious",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 29,
+    "category": "low_context",
+    "prompt": "Out of nowhere after 3 months of silence, my ex just texted 'Hey, random question for you...'",
+    "wingman_response": "Your ex is reaching out after 3 months of silence, which might be a sign they're genuinely interested in reconnecting or just curious about your life. Either way, it's okay to keep things casual and not reveal too much.",
+    "suggested_messages": [
+      "What's this random question about?",
+      "Random question? Sounds like you've been out of the loop for a while. What's on your mind?",
+      "Not exactly the most enthusiastic opener I've seen. What's going on?"
+    ],
+    "energy_read": "Cautious Curiosity",
+    "safety_flag": false,
+    "confidence": 0.75,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  },
+  {
+    "id": 30,
+    "category": "low_context",
+    "prompt": "He replied 'You're something else lol' to my last text.",
+    "wingman_response": "He's clearly entertained, but let's not read too much into it. I'd play it cool and see if he's willing to clarify what he means.",
+    "suggested_messages": [
+      "What's got you thinking I'm something else?",
+      "You're not giving me enough credit. What's the compliment?"
+    ],
+    "energy_read": "Amused",
+    "safety_flag": false,
+    "confidence": 0.55,
+    "human_score": null,
+    "tone_score": null,
+    "copy_ready_score": null
+  }
+]

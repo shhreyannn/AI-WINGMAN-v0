@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "category": "flirting",
+    "prompt": "We were debating the best late-night food spot and he sent 'I'll have to take you to my secret taco place and prove you wrong'. How do I playfully accept without seeming too eager?"
+  },
+  {
+    "id": 2,
+    "category": "flirting",
+    "prompt": "She sent a screenshot of her Spotify wrapped and we have the exact same top artist. What's a witty way to reply?"
+  },
+  {
+    "id": 3,
+    "category": "flirting",
+    "prompt": "He replied to my Instagram story (me at a concert) with 'looks loud but you look great'. How do I keep the banter going?"
+  },
+  {
+    "id": 4,
+    "category": "flirting",
+    "prompt": "I playfully told him his sweater makes him look like a sophisticated grandfather, and he replied 'A grandfather who could steal your girl'. Need a sharp comeback."
+  },
+  {
+    "id": 5,
+    "category": "flirting",
+    "prompt": "She casually mentioned that she is 'accepting applications for a plus one to a wedding next month'. Should I shoot my shot?"
+  },
+  {
+    "id": 6,
+    "category": "flirting",
+    "prompt": "We just matched on Hinge and his prompt says 'Let's debate the most overrated pasta shape'. I want to start strong."
+  },
+  {
+    "id": 7,
+    "category": "cold_reply",
+    "prompt": "I sent a voice note enthusiastically talking about a promotion I just got at work. He replied 4 hours later with 'That’s awesome man congrats'."
+  },
+  {
+    "id": 8,
+    "category": "cold_reply",
+    "prompt": "We had a really good second date, but since then she’s been taking almost a full day to reply to texts, and her responses are just one line."
+  },
+  {
+    "id": 9,
+    "category": "cold_reply",
+    "prompt": "I asked if he preferred Friday or Saturday for getting drinks, and he just said 'let me check my schedule' and hasn't followed up in two days."
+  },
+  {
+    "id": 10,
+    "category": "cold_reply",
+    "prompt": "I tried to start a conversation about a show we both watch, and she just sent 'yeah that episode was crazy'."
+  },
+  {
+    "id": 11,
+    "category": "cold_reply",
+    "prompt": "He usually uses a lot of emojis and exclamation points, but today when I asked about his weekend plans he just said 'Not much just chilling'."
+  },
+  {
+    "id": 12,
+    "category": "cold_reply",
+    "prompt": "I texted her 'had a great time tonight!' right after our first date, and she reacted to the message with a heart but didn't actually reply."
+  },
+  {
+    "id": 13,
+    "category": "recovery",
+    "prompt": "I accidentally sent a screenshot of our conversation to him instead of my group chat. He just saw it."
+  },
+  {
+    "id": 14,
+    "category": "recovery",
+    "prompt": "I got a little too drunk last night and double-texted her complaining about my ex. Woke up to silence."
+  },
+  {
+    "id": 15,
+    "category": "recovery",
+    "prompt": "I made a sarcastic joke about her job that came off way harsher over text than I meant. She said 'wow okay'."
+  },
+  {
+    "id": 16,
+    "category": "recovery",
+    "prompt": "He told me he couldn't hang out because he was exhausted, and I saw him tagged at a bar on a friend's story. I passive-aggressively texted 'hope you're resting well!'"
+  },
+  {
+    "id": 17,
+    "category": "recovery",
+    "prompt": "We were supposed to meet at 7. I fell asleep and didn't wake up until 8:30. He texted 'Guess we aren't doing this?' at 7:45."
+  },
+  {
+    "id": 18,
+    "category": "recovery",
+    "prompt": "I panicked when she asked what I was looking for, and I said 'just keeping it super casual' even though I actually really like her."
+  },
+  {
+    "id": 19,
+    "category": "emotional",
+    "prompt": "We've been dating for a month and I haven't heard from him all weekend. I'm feeling really anxious and just want to know he's thinking of me without sounding needy."
+  },
+  {
+    "id": 20,
+    "category": "emotional",
+    "prompt": "I saw he updated his dating app profile with new photos even though we've been seeing each other exclusively for 3 weeks."
+  },
+  {
+    "id": 21,
+    "category": "emotional",
+    "prompt": "She brought up her ex randomly in conversation today and it made me feel like a rebound."
+  },
+  {
+    "id": 22,
+    "category": "emotional",
+    "prompt": "I really miss him today. We had a great weekend together but haven't texted much this week because of work."
+  },
+  {
+    "id": 23,
+    "category": "date_planning",
+    "prompt": "It's her birthday next week (we've been dating 2 months). What's a good way to ask what her plans are without making her feel obligated to spend it with me?"
+  },
+  {
+    "id": 24,
+    "category": "date_planning",
+    "prompt": "He said 'we should definitely get dinner soon' but didn't propose a specific day. I want to lock it down but don't want to seem pushy."
+  },
+  {
+    "id": 25,
+    "category": "date_planning",
+    "prompt": "I want to invite him over to my place to cook dinner for our fourth date, but I don't want it to automatically imply we're sleeping together."
+  },
+  {
+    "id": 26,
+    "category": "date_planning",
+    "prompt": "I had to cancel our last date because I got sick, and I want to ask him out again to make up for it."
+  },
+  {
+    "id": 27,
+    "category": "low_context",
+    "prompt": "He just sent me a link to a song with no caption."
+  },
+  {
+    "id": 28,
+    "category": "low_context",
+    "prompt": "She texted 'We need to talk about what happened last night.' I honestly have no idea what she's referring to."
+  },
+  {
+    "id": 29,
+    "category": "low_context",
+    "prompt": "Out of nowhere after 3 months of silence, my ex just texted 'Hey, random question for you...'"
+  },
+  {
+    "id": 30,
+    "category": "low_context",
+    "prompt": "He replied 'You're something else lol' to my last text."
+  }
+]
