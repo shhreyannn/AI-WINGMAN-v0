@@ -8,6 +8,21 @@ Sparkeefy operates on a modular, multi-agent pipeline designed to eliminate hall
 
 ### The Pipeline
 
+```mermaid
+graph TD
+    User(["User Situation"]) --> Analyzer
+    
+    subgraph Sparkeefy Pipeline
+        Analyzer["1. Analyzer<br/>Read Energy & Context"]
+        Generator["2. Generator<br/>Draft Advice & Messages"]
+        Cringe["3. Cringe Detector<br/>Adversarial A/B Filter"]
+    end
+    
+    Analyzer -->|"Energy Read + Confidence"| Generator
+    Generator -->|"Raw Advice & Draft Texts"| Cringe
+    Cringe -->|"Final JSON Payload"| Output(["Copy-Ready Response"])
+```
+
 1. **Analyzer** (`prompts/analyzer.txt`)
    - Evaluates the user's situation to determine the primary "Energy Read".
    - Weighs interaction history and prevents overreaction to single negative signals (Context Over Reactivity).
